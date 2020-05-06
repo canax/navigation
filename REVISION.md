@@ -3,6 +3,13 @@ Revision history
 
 
 
+v2.0.0 (2020-05-06)
+---------------------------------
+
+* Add type hint to get better error message.
+
+
+
 v2.0.0-beta.3 (2019-12-10)
 ---------------------------------
 

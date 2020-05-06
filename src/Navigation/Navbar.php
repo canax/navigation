@@ -72,7 +72,7 @@ class Navbar
      * @SuppressWarnings(PHPMD.NPathComplexity)
      * @SuppressWarnings(PHPMD.ExcessiveMethodLength)
      */
-    public function createMenuWithSubMenus($config)
+    public function createMenuWithSubMenus(array $config): string
     {
         $default = [
             "id"      => null,
